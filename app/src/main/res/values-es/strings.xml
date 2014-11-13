@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppBlog2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="android_names">
+        <item>Magdalena</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Pan de jengibre</item>
+        <item>Panal de miel</item>
+        <item>Sandwich de helado</item>
+        <item>Frijol de jalea</item>
+        <item>KitKat</item>
+        <item>Piruleta</item>
+
+    </string-array>
+
+</resources>
